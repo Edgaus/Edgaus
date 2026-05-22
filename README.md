@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hello there, I'm Edgar Agustin (Edgaus)</h1>
+<h1 align="center">Hello there, I'm Edgar Agustin Contreras (Edgaus)</h1>
 - 🔭 I’m currently working on **Physics for fools**
 
 - 🌱 I’m currently learning **Master**
